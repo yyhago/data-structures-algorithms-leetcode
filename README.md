@@ -126,10 +126,10 @@ Este repositório também contém anotações conceituais sobre:
 
 ## 🔄 Progresso do Curso
 
-- [ ] Fundamentos
-  - [ ] Big O
-  - [ ] Estruturas de Dados Básicas
-  - [ ] Escolha de Estruturas de Dados
+- [X] Fundamentos
+  - [X] Big O
+  - [X] Estruturas de Dados Básicas
+  - [X] Escolha de Estruturas de Dados
 - [ ] Arrays
   - [ ] Two Pointer
   - [ ] Sliding Window
